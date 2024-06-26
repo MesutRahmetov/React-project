@@ -1,0 +1,10 @@
+.LogosContainer {
+  height: 170px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.LogosContainer img {
+  width: 100%;
+  height: 50px;
+}

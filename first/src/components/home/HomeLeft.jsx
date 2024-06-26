@@ -4,12 +4,15 @@ import "../../style/home.css";
 const HomeLeft = () => {
   return (
     <div className="HomeLeftContainer">
-      <h1>This is my First React Project</h1>
+      <h1>
+        SaaS Landing <br />
+        Page Template
+      </h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore illo
-        iste pariatur animi culpa ut officia nihil ea quam labore, obcaecati
-        ipsam fugiat dicta deserunt dolores in rem fuga sed!
+        This is a template Figma file, turned into code <br />
+        using Anima. Learn more at AnimaApp.com
       </p>
+      <button>Get started </button>
     </div>
   );
 };

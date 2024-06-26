@@ -1,0 +1,32 @@
+.feedbackContainer {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 100px;
+}
+
+.feedbackCard {
+  margin-top: 150px;
+  background: #bfaff2;
+  width: 100%;
+  border-radius: 20px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.feedUser {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.feedStart {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+
+.feedStart img {
+  width: 20px;
+}

@@ -4,7 +4,7 @@ import "../../style/home.css";
 const HomeRight = () => {
   return (
     <div className="HomeRightContainer">
-      <img src="/images/happy-family.jpeg" alt="" />
+      <img src="/images/Screenshot.png" alt="home right picture" />
     </div>
   );
 };

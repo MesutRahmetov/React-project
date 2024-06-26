@@ -1,0 +1,53 @@
+.FooterContainer {
+  display: flex;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+.FooterLeft {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.FooterRight {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.FooterLeft h3 {
+  color: #fff;
+}
+
+.FooterLeft div {
+  display: flex;
+  color: #fff;
+  gap: 20px;
+}
+
+.FooterRight h3 {
+  color: #fff;
+}
+
+.FooterRight div {
+  display: flex;
+  gap: 10px;
+}
+.FooterRight input {
+  height: 50px;
+  width: 301px;
+  border-radius: 15px;
+  padding-left: 12px;
+  background-color: #333333;
+  border: 1px solid #333333;
+  outline: none;
+  color: #fff;
+}
+.FooterRight button {
+  background-color: #bfa2bf;
+}
